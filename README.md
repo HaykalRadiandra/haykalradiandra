@@ -7,7 +7,9 @@
 <hr>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi...+Coders</>+👋;+I'm+Haykal+Radiandra;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi...+Coders</>+👋;+I'm+Haykal+Radiandra;" alt="Typing SVG" />
+  </a>
   <p style="color:white;">Currently, I am a fresh graduate from SMK Negeri 7 Semarang. I have an ambition to explore the world of Programming, especially Frontend Web Developer.</p>
   <!-- <img src="https://komarev.com/ghpvc/?username=haykalradiandra&style=plastic" alt="https://github.com/HaykalRadiandra" width="150px"/> -->
   <img src="https://profile-counter.glitch.me/haykalradiandra/count.svg?"/>
@@ -18,22 +20,22 @@
 <h2  align="center">🌐 Reach Me at</h2>
 
 <div align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/uzuhiko/">
+  <a style="text-decoration:none;" target="_blank"href="https://www.linkedin.com/in/uzuhiko/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>&nbsp;
-  <a href="mailto: rthaykal@gmail.com?subject=Hello%20Haykal,%20From%20Github">
+  <a style="text-decoration:none;" href="mailto: rthaykal@gmail.com?subject=Hello%20Haykal,%20From%20Github">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
   </a>&nbsp;
-  <a target="_blank"href="https://twitter.com/haykalradiandra">
+  <a style="text-decoration:none;" target="_blank"href="https://twitter.com/haykalradiandra">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>&nbsp;
-  <a target="_blank"href="https://instagram.com/haykaldindra_">
+  <a style="text-decoration:none;" target="_blank"href="https://instagram.com/haykaldindra_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
   </a>&nbsp;
-  <a target="_blank"href="https://fb.com/haykal.radindra">
+  <a style="text-decoration:none;" target="_blank"href="https://fb.com/haykal.radindra">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"  />
   </a>&nbsp;
-  <a target="_blank"href="https://discord.gg/YQsSRYkc">
+  <a style="text-decoration:none;" target="_blank"href="https://discord.gg/YQsSRYkc">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>&nbsp;
 </div>
