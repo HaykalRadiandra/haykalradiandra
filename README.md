@@ -20,22 +20,22 @@
 <h2  align="center">🌐 Reach Me at</h2>
 
 <div align="center">
-  <a style="text-decoration:none;color:transparent;" target="_blank"href="https://www.linkedin.com/in/uzuhiko/">
+  <a target="_blank"href="https://www.linkedin.com/in/uzuhiko/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>&nbsp;
-  <a style="text-decoration:none;color:transparent;" href="mailto: rthaykal@gmail.com?subject=Hello%20Haykal,%20From%20Github">
+  <a href="mailto: rthaykal@gmail.com?subject=Hello%20Haykal,%20From%20Github">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
   </a>&nbsp;
-  <a style="text-decoration:none;color:transparent;" target="_blank"href="https://twitter.com/haykalradiandra">
+  <a target="_blank"href="https://twitter.com/haykalradiandra">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>&nbsp;
-  <a style="text-decoration:none;color:transparent;" target="_blank"href="https://instagram.com/haykaldindra_">
+  <a target="_blank"href="https://instagram.com/haykaldindra_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
   </a>&nbsp;
-  <a style="text-decoration:none;color:transparent;" target="_blank"href="https://fb.com/haykal.radindra">
+  <a target="_blank"href="https://fb.com/haykal.radindra">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"  />
   </a>&nbsp;
-  <a style="text-decoration:none;color:transparent;" target="_blank"href="https://discord.gg/YQsSRYkc">
+  <a target="_blank"href="https://discord.gg/YQsSRYkc">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>&nbsp;
 </div>
