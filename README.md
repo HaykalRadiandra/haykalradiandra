@@ -23,7 +23,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/uzuhiko/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>&nbsp;
-  <a href="mailto: rthaykal@gmail.com?subject=Hello%20Haykal,%20From%20Github">
+  <a href="mailto: haykalradiandra@gmail.com?subject=Hello%20Haykal,%20From%20Github">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
   </a>&nbsp;
   <a target="_blank"href="https://twitter.com/haykalradiandra">
